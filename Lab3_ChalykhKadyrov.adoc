@@ -125,7 +125,7 @@ _unsigned_, _short_, или _long_ целых чисел. Вы можете пр
 типов данных.
 
 .Размеры типов С++
-image::../Laba3/Pics/file1.png[]
+image::Pics/file1.png[]
 
 === *_6. Что делает оператор sizeof()?_*
 
