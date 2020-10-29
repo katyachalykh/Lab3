@@ -3,8 +3,5 @@
     <project>
         <path>$WS_DIR$\iarproject.ewp</path>
     </project>
-    <project>
-        <path>$WS_DIR$\..\stm32Labs-master\Lab2\iarproject.ewp</path>
-    </project>
     <batchBuild />
 </workspace>

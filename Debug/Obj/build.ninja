@@ -21,7 +21,8 @@ rule browsedata
 
 #Build steps
 build main.pbi : index main.xcl
-build iarproject.pbd : link main.pbi
+build startupF411RE.pbi : index startupF411RE.xcl
+build iarproject.pbd : link main.pbi startupF411RE.pbi
 build iarproject.pbw : browsedata iarproject.pbd
 
 
