@@ -1,44 +1,44 @@
-"C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\main.cpp"
+"C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\main.cpp"
 -std=c++17
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\Debug\Obj\main.pbi.dep
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\Debug\Obj\main.pbi.dep
 -o
 main.pbi
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\Common
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\Common
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers\STM32F411\FieldValues
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers\STM32F411\FieldValues
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers\STM32F411
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers\STM32F411
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers\CortexM4
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers\CortexM4
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers\CortexM4\FieldValues
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers\CortexM4\FieldValues
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc
+D:\Проги для учебы\arm\inc
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc\c
+D:\Проги для учебы\arm\inc\c
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc\cpp
+D:\Проги для учебы\arm\inc\cpp
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\Common
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\Common
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers\STM32F411\FieldValues
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers\STM32F411\FieldValues
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers\STM32F411
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers\STM32F411
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers\CortexM4
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers\CortexM4
 -I
-C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHardware\Registers\CortexM4\FieldValues
+C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Laba3_ChalykhKadyrov\AHardware\Registers\CortexM4\FieldValues
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
@@ -382,8 +382,8 @@ C:\Users\mircc\Desktop\Универ зло\4 курс\Колодий\Laba3\AHard
 -D__EDG_FLOAT80_ENABLING_POSSIBLE=0
 -D__EDG_FLOAT128_ENABLING_POSSIBLE=0
 -D__EDG_INT128_EXTENSIONS_ALLOWED=0
--D_DLIB_CONFIG_FILE_HEADER_NAME="C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.3\\arm\\inc\\c\\DLib_Config_Normal.h"
--D_DLIB_CONFIG_FILE_STRING="C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.3\\arm\\inc\\c\\DLib_Config_Normal.h"
+-D_DLIB_CONFIG_FILE_HEADER_NAME="D:\\@@@@@ @@@ @@@@@\\arm\\inc\\c\\DLib_Config_Normal.h"
+-D_DLIB_CONFIG_FILE_STRING="D:\\@@@@@ @@@ @@@@@\\arm\\inc\\c\\DLib_Config_Normal.h"
 -D__VERSION__="IAR ANSI C/C++ Compiler V8.40.2.214/W32 for ARM"
 -D_VA_DEFINED=
 -D_VA_LIST=struct __va_list
